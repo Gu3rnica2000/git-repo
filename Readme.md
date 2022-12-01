@@ -1,4 +1,4 @@
 # Demo
 
-Sample file for demo\n
+Sample file for demo
 this should not be this
